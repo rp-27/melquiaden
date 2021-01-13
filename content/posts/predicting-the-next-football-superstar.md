@@ -19,15 +19,15 @@ As for Neymar, not only was it a surprise to see the mid-2011 FIFA scores reflec
 
 ## The FIFA Scoring System
 
-A natural question may follow in light of this: how does the data team generate such meaningful scores – an  already difficult task – for so many players? As described by Michael Mueller-Morning, the head of the data team at FIFA, the task becomes especially challenging when it comes to a myriad of new players from smaller leagues for whom there is little to no existing information. At scale, the process involves calculating scores for approximately 18,000 players across 700 clubs and 30 leagues [^2] . Since the data for the number of players simply doesn’t exist and can’t be bought, FIFA relies on a network of 9,000 members – including professional-level scouts, agents, and season ticket holders – to closely watch and assess players in live and recorded matches. Their expertise is not only used to evaluate a player’s visible, physical performance traits, but also intangibles like their mental resilience, intelligence in positioning, and aggression. 
+A natural question may follow: how does the data team generate such meaningful scores – an  already difficult task – for so many players? As described by Michael Mueller-Morning, the head of the data team at FIFA, the task becomes especially challenging when it comes to a myriad of new players from smaller leagues for whom there is little to no existing information. At scale, the process involves calculating scores for approximately 18,000 players across 700 clubs and 30 leagues [^2] . Since the data for the number of players doesn’t exist and therefore can’t be bought, FIFA relies on a network of 9,000 members – including professional-level scouts, agents, and season ticket holders – to closely watch and assess players in live and recorded matches. Their expertise is not only used to evaluate a player’s visible, physical performance traits, but also intangibles like their mental resilience, intelligence in positioning, and aggression. 
 
-The 5.4 million data points provided by the network are collated and processed into scores that provide an astonishingly accurate reconstruction of the players in FIFA’s in-game experience. The richness of FIFA’s data suggests that it is ripe for promising insight – not only into the past and present of the game, but also on its future.
+The 5.4 million data points provided by the network are collated and processed into scores that provide an astonishingly accurate reconstruction of the players in FIFA’s in-game experience. The richness of FIFA’s data suggests that it is ripe for promising insight – not only into the past and present of the game, but also its future.
 
 
 
 ## Superstars: The Story of Performance and Valuation
 
-Arguably the biggest superstar of modern football, Lionel Messi, has been at the pinnacle of the footballing world for almost the entirety of his 16-year career, topping every metric used to determine such things: market value, awards, wages, trophies, and even merchandising sales. But it all started when he stepped onto the pitch for Barcelona for the first time in the fall of 2004 and quickly proved to be a once-in-a-lifetime talent. As the world watched the phenom, other clubs realized that they had a problem - and potentially an opportunity - on their hands. Widespread recognition inevitably followed his astounding ability, the natural result of an unnatural talent.
+Arguably the biggest superstar of modern football, Lionel Messi has been at the pinnacle of the footballing world for almost the entirety of his 16-year career, topping every metric used to determine such things: market value, awards, wages, trophies, and even merchandising sales. But it all started when he stepped onto the pitch for Barcelona for the first time in the fall of 2004 and quickly proved to be a once-in-a-lifetime talent. As the world watched the phenom, other clubs realized that they had a problem - and potentially an opportunity - on their hands. Widespread recognition inevitably followed his astounding ability, the natural result of an unnatural talent.
 
 As seen across sporting industries, superstardom sits precariously on top of both performance and valuation. Valuations themselves represent a measure of the player’s value in the marketplace, speaking directly to their utility on the pitch. But it often includes the effects of a player's star power, media presence, and international recognition. The variables, however, are catalyzed and sustained by performance and can be considered mediator variables between performance and valuation; ultimately pointing to performance as the main predictor of a player's valuation.
 
@@ -45,7 +45,7 @@ Using the last five years of historical performance data (from FIFA) for the top
 
 ## The Portraits of High-Value Players
 
-The attributes that factor into assessing a player’s performance are dependent on the player’s position as different positions require different skillsets. Attackers need to be quick and agile to create scoring opportunities, while defenders need to be strong and forceful in order to tackle opposing attackers trying to create those opportunities. 
+The attributes that factor into assessing a player’s performance are dependent on the player’s position, as different positions require different skillsets. Attackers need to be quick and agile to create scoring opportunities, while defenders need to be strong and forceful in order to tackle (opposing) attackers trying to create those opportunities. 
 
 Below are the non-performance attributes for high-value players across positions. ‘Subs’, a positional category comprising of bench players of all positions, has been omitted as positional profiles would vary across the group.
 
@@ -69,7 +69,7 @@ It is also worth noting that regardless of nationality, the most common home for
 
 {{< figure src="/images/epl.jpg" caption="Liverpool players celebrating winning the 2020 EPL championship" >}}
 
-And lastly, in regards to nationality, Spain and France’s presence at the top of the table across positions (including the omitted, but sizable ‘Subs’ category) is conspicuous. Their positions as the top producers of football talent has been turned over by many football journalists across Europe for years [^4] , especially in light of France’s World Cup victory in 2018. Their prominence in this regard has since been theorized to be the result their respective national football federations’ dedicated efforts in detecting and nurturing promising young talent, making a compelling case study for well-organized investment in scouting and youth academies.
+And lastly, in regards to nationality, Spain and France’s presence at the top of the table across positions (including the omitted, but sizable ‘subs’ category) is conspicuous. Their positions as the top producers of football talent is an enigma that has been turned over by many football journalists across Europe for years, especially in light of France’s World Cup victory in 2018. Their prominence in this regard has since been theorized to be the result their respective national football federations’ dedicated efforts in detecting and nurturing promising young talent, making a compelling case study for well-organized investment in scouting and youth academies [^4] .
 
 
 
@@ -77,7 +77,7 @@ And lastly, in regards to nationality, Spain and France’s presence at the top 
 
 A constellation of skills makes up an effective and valuable player, but there are certain skills that give players an advantage in their positions and elevate their overall performance.
 
-It should be noted that they way skills are defined, categorized, and measured by a data aggregator shapes the way a player’s performance is viewed by providing the language and concepts with which to evaluate it. Using the idea of a metric like ‘positioning’ under a ‘mentality’ category is an attempt to quantify the fluid display that is a player’s performance - mz    aking FIFA, or any other football data aggregator, unique from each other.
+It should be noted that they way skills are defined, categorized, and measured by a data aggregator shapes the way a player’s performance is viewed by providing the language and concepts by which to evaluate it. Using the idea of a metric like **‘positioning’** under a **‘mentality’** category is an attempt to quantify the fluid display that is a player’s performance - making FIFA, or any other football data aggregator, unique from each other.
 
  With that in consideration, below are the skills [^5] that have moderate to strong correlations to player valuation [^6] , indicating their importance in making a player’s performance pop.
 
@@ -89,7 +89,7 @@ It should be noted that they way skills are defined, categorized, and measured b
 
 A common skill that seems to matter among all positions is **movement reactions** – in other words – how well a player reacts to a situation as it occurs, suggesting that smart, quick decision-making is definitive in all positions. 
 
-It's also worth noting that mentality scores for attackers have higher correlations to their valuations compared to other positions (with goalkeepers coming in second) implying mental makeup is critical for attackers and goalkeepers. **Ball control** is more strongly correlated to positions in the upper half of the field (attackers and midfielders), whereas positionally-specific attributes like **defending tackle** and **goalkeeping handling**, **positioning**, and **kicking** have stronger correlations for players in the lower half. Goalkeepers, who have a tight skillset, understandably have three out of their five goalkeeping skills correlating strongly with their valuations. 
+It's also worth noting that mentality scores for attackers have higher correlations to their valuations compared to other positions (with goalkeepers coming in second), implying mental makeup is critical for attackers and goalkeepers. **Ball control** is more strongly correlated to positions in the upper half of the field (attackers and midfielders), whereas positionally-specific attributes like **defending tackle** and **goalkeeping handling**, **positioning**, and **kicking** have stronger correlations for players in the lower half. Goalkeepers, who have a tight skillset, understandably have three out of their five goalkeeping skills correlating strongly with their valuations. 
 
 These standout skills may warrant further exploration in regards to player training and development, having the potential to be consdiered strong delineators in the game.
 
@@ -98,7 +98,7 @@ These standout skills may warrant further exploration in regards to player train
 
 Given the historical FIFA and Transfermarkt data, a model can be created to predict future high-value players by tracking the current top 500 high-value players’ trajectories through the past five years. With a mixed-effects regression approach, we can get an idea of where young players not currently in the top 500 might end up in the future given their current FIFA scores. Since many players 23-years or younger (“U23s”) are considered the oldest group of developing talent, placing the age cut-off at 23 gives a greater chance of detecting high-value players that have yet gone unnoticed.
 
-Another factor in the model is the inclusion of the aforementioned ‘Subs’ position. Though ‘Subs’ span all positions and can often change over a season, we can build a model on the umbrella position and see if there are players who fit the arc of high-value subs in 2020. 
+Another factor in the model is the inclusion of the aforementioned ‘subs’ position. Though ‘subs’ span all positions and can often change over a season, we can build a model on the umbrella position and see if there are players who fit the arc of high-value subs in 2020. 
 
 So who are the players that may surprise us in the coming years? Below are the 10 players with the top predicted values for each position for 2020 (except for goalkeepers who, with a smaller population size, have a top 5).
 
@@ -115,7 +115,7 @@ Several players, particularly attackers, midfielders, and subs, witnessed a grow
 
 The model may be more tuned for up-field players rather than the backline given the fewer instances, and smaller magnitude, of valuation growth in defenders and goalkeepers in the small group of top predicted players discussed here. However, looking back at the players whose valuations and profiles have grown, we may have a talented graduating class with the likes of **Jarrod Bowen**, **Angeliño**, **Douglas Luiz**, **Ismaël Bennacer\*\***, **Daichi Kamada**, **Konrad Laimer**, **Diego Rossi**, and **Boubacar Kamara\*\***. 
 
-It is yet to be seen if there will be another Neymar, Messi, or Ronaldo, but with the entire world of football fans watching, there is a good chance that a new, unexpected talent will burst onto the scene in the near future. Here's hoping.
+It is yet to be seen if there will be another Neymar, Messi, or Ronaldo, but with the entire world watching, there is a good chance that a new, unexpected talent will burst onto the scene in the near future, giving football fans a new generation of superstars to follow.
 
 {{< figure src="/images/ismael.jpg" caption="Ismaël Bennacer for AC Milan" >}}
 
