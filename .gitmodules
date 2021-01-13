@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/rp-27/rp-27.github.io.git
+	branch = main

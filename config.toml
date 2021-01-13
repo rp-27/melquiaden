@@ -1,0 +1,38 @@
+baseURL = "https://rp-27.github.io"
+languageCode = "en-us"
+title = "Melquíaden"
+theme = "rocinante"
+paginate = 3
+
+[blackfriday] 
+plainIDAnchors = false
+
+[markup]
+  [markup.highlight]
+    style = "monokailight"
+  [markup.goldmark.renderer]
+    unsafe= true
+
+[params]
+  favicon = "/icons/favicon.png"
+  mainSections = ["posts", "photos"]
+  email = "melquiaden@gmail.com"
+  about = """
+Hi. Welcome to **Melquíaden**. My name is Rani and one of my favorite pastimes is getting lost in questions that don't have an
+obvious answer. 
+
+Some of my thoughts about those questions can be found here, inspired by the little musings Melquíades brought to Macondo. If you have
+any questions, please reach out to me anytime.
+"""
+
+
+  [[params.links]]
+    [[params.links.link]]
+      name = "Email"
+      href = "/contact"
+      smart_email_link = true
+    [[params.links.link]]
+      name = "Github"
+      href = "https://github.com/rp-27"
+      new_tab = true
+
