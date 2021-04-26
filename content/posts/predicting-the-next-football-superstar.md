@@ -14,7 +14,7 @@ But as the world cheered on, the data team at EA Sport’s FIFA division was clo
 
 As for Neymar, not only was it a surprise to see the mid-2011 FIFA scores reflect the stature of a player clearly still in development, but to also see his scores only gradually climb in the coming years despite the player’s exploding profile. Neymar’s steady ascent to a reliable pro in FIFA’s system was continuously reflected in his real world valuation, finally catching up to his massive global presence after reaching an all-time-high market value of $198 million in 2018. FIFA’s scoring system seemingly accomplished the difficult task of accurately capturing Neymar’s magic on the pitch in a numerical story that graphed closely with the real-world market value of the now enduring superstar.
 
-{{< figure src="/images/cards.jpg" caption="FIFA 20 cards for Messi, Ronaldo, and Neymar" >}}
+{{< figure src="/images/cards.jpg" caption="FIFA 20 cards for Messi, Mbappé, and Mané" >}}
 
 
 ## The FIFA Scoring System
