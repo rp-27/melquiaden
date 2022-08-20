@@ -1,5 +1,5 @@
 ---
-title: "Predicting the Next Football Superstar"
+title: "Predicting the Next Soccer Superstar"
 date: 2020-11-18T18:37:18-08:00
 draft: false
 ---
@@ -27,7 +27,7 @@ The 5.4 million data points provided by the network are collated and processed i
 
 ## Superstars: The Story of Performance and Valuation
 
-Arguably the biggest superstar of modern football, Lionel Messi has been at the pinnacle of the footballing world for almost the entirety of his 16-year career, topping every metric used to determine such things: market value, awards, wages, trophies, and even merchandising sales. But it all started when he stepped onto the pitch for Barcelona for the first time in the fall of 2004 and quickly proved to be a once-in-a-lifetime talent. As the world watched the phenom, other clubs realized that they had a problem - and potentially an opportunity - on their hands. Widespread recognition inevitably followed his astounding ability, the natural result of an unnatural talent.
+Arguably the biggest superstar of modern soccer, Lionel Messi has been at the pinnacle of the soccer world for almost the entirety of his 16-year career, topping every metric used to determine such things: market value, awards, wages, trophies, and even merchandising sales. But it all started when he stepped onto the pitch for Barcelona for the first time in the fall of 2004 and quickly proved to be a once-in-a-lifetime talent. As the world watched the phenom, other clubs realized that they had a problem - and potentially an opportunity - on their hands. Widespread recognition inevitably followed his astounding ability, the natural result of an unnatural talent.
 
 As seen across sporting industries, superstardom sits precariously on top of both performance and valuation. Valuations themselves represent a measure of the player’s value in the marketplace, speaking directly to their utility on the pitch. But it often includes the effects of a player's star power, media presence, and international recognition. The variables, however, are catalyzed and sustained by performance and can be considered mediator variables between performance and valuation; ultimately pointing to performance as the main predictor of a player's valuation.
 
@@ -69,7 +69,7 @@ It is also worth noting that regardless of nationality, the most common home for
 
 {{< figure src="/images/epl.jpg" caption="Liverpool players celebrating winning the 2020 EPL championship" >}}
 
-And lastly, in regards to nationality, Spain and France’s presence at the top of the table across positions (including the omitted, but sizable ‘subs’ category) is conspicuous. Their positions as the top producers of football talent is an enigma that has been turned over by many football journalists across Europe for years, especially in light of France’s World Cup victory in 2018. Their prominence in this regard has since been theorized to be the result their respective national football federations’ dedicated efforts in detecting and nurturing promising young talent, making a compelling case study for well-organized investment in scouting and youth academies [^4] .
+And lastly, in regards to nationality, Spain and France’s presence at the top of the table across positions (including the omitted, but sizable ‘subs’ category) is conspicuous. Their positions as the top producers of soccer talent is an enigma that has been turned over by many soccer journalists across Europe for years, especially in light of France’s World Cup victory in 2018. Their prominence in this regard has since been theorized to be the result their respective national soccer federations’ dedicated efforts in detecting and nurturing promising young talent, making a compelling case study for well-organized investment in scouting and youth academies [^4] .
 
 
 
@@ -77,7 +77,7 @@ And lastly, in regards to nationality, Spain and France’s presence at the top 
 
 A constellation of skills makes up an effective and valuable player, but there are certain skills that give players an advantage in their positions and elevate their overall performance.
 
-It should be noted that they way skills are defined, categorized, and measured by a data aggregator shapes the way a player’s performance is viewed by providing the language and concepts by which to evaluate it. Using the idea of a metric like **‘positioning’** under a **‘mentality’** category is an attempt to quantify the fluid display that is a player’s performance - making FIFA, or any other football data aggregator, unique from each other.
+It should be noted that they way skills are defined, categorized, and measured by a data aggregator shapes the way a player’s performance is viewed by providing the language and concepts by which to evaluate it. Using the idea of a metric like **‘positioning’** under a **‘mentality’** category is an attempt to quantify the fluid display that is a player’s performance - making FIFA, or any other soccer data aggregator, unique from each other.
 
  With that in consideration, below are the skills [^5] that have moderate to strong correlations to player valuation [^6] , indicating their importance in making a player’s performance pop.
 
@@ -115,7 +115,7 @@ Several players, particularly attackers, midfielders, and subs, witnessed a grow
 
 The model may be more tuned for up-field players rather than the backline given the fewer instances, and smaller magnitude, of valuation growth in defenders and goalkeepers in the small group of top predicted players discussed here. However, looking back at the players whose valuations and profiles have grown, we may have a talented graduating class with the likes of **Jarrod Bowen**, **Angeliño**, **Douglas Luiz**, **Ismaël Bennacer\*\***, **Daichi Kamada**, **Konrad Laimer**, **Diego Rossi**, and **Boubacar Kamara\*\***. 
 
-It is yet to be seen if there will be another Neymar, Messi, or Ronaldo, but with the entire world watching, there is a good chance that a new, unexpected talent will burst onto the scene in the near future, giving football fans a new generation of superstars to follow.
+It is yet to be seen if there will be another Neymar, Messi, or Ronaldo, but with the entire world watching, there is a good chance that a new, unexpected talent will burst onto the scene in the near future, giving soccer fans a new generation of superstars to follow.
 
 {{< figure src="/images/ismael.jpg" caption="Ismaël Bennacer for AC Milan" >}}
 
