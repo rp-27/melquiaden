@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Melquíaden</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Melquíaden</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 06 May 2026 20:53:38 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Examining the Hidden Variables and Costs of Transit Projects</title>
+      <link>http://localhost:1313/posts/examining-transit-costs/</link>
+      <pubDate>Wed, 06 May 2026 20:53:38 -0700</pubDate>
+      <guid>http://localhost:1313/posts/examining-transit-costs/</guid>
+      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/transit%20cover%20copy.webp&#34;&#xA;    alt=&#34;Transit and traffic in the heart of Jakarta, Indonesia&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;Transit and traffic in the heart of Jakarta, Indonesia&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;The conversation around public transit is going through a modern renaissance. With the proliferation of social media and the unprecedented insight given into the daily lives of people around the world, the discussion and activity around the vitality of public transportation and why its development has slowed down almost to a halt in America, has resurged. The problem of building public transit - including the significant costs, red tape, and the considerable public and political will it often involves - has plagued American cities since public transit was displaced by car and highway infrastructure in national politics&lt;sup&gt;[1]&lt;/sup&gt;. As the focus moved from urban centers to suburban sprawl, American political and public interest turned away from developing walkable and interconnected cities to car-centric environments that have become challenging landscapes to integrate or retrofit mass transit.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Netflix&#39;s Global Strategy</title>
+      <link>http://localhost:1313/posts/netflix-global-strategy/</link>
+      <pubDate>Wed, 21 Apr 2021 18:37:18 -0800</pubDate>
+      <guid>http://localhost:1313/posts/netflix-global-strategy/</guid>
+      <description>&lt;p&gt;Netflix&amp;rsquo;s recent international expansion has been aggressive and marked in comparison to its competitors. As streaming platforms from fellow media giants like Disney, HBO, and ViacomCBS swarm the market (taking back their licensed content with them), Netflix is leveraging its broad subscriber base and market dominance to explore a previously untapped global audience and create a vast library of original content in the process.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Predicting the Next Soccer Superstar</title>
+      <link>http://localhost:1313/posts/predicting-the-next-football-superstar/</link>
+      <pubDate>Wed, 18 Nov 2020 18:37:18 -0800</pubDate>
+      <guid>http://localhost:1313/posts/predicting-the-next-football-superstar/</guid>
+      <description>&lt;p&gt;On July 27, 2011, a then 19-year-old Neymar nimbly dribbled past the Flamengo defense in the Campeonato Brasileiro and scored an extraordinary goal in the 25th minute of the game, bringing his hometown team, Santos, to a 3-0 lead. The unexpectedly brilliant goal won him the revered Puskas award that year and is widely regarded as Neymar’s arrival onto the international stage, poising him to be the next global superstar.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
