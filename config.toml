@@ -1,5 +1,5 @@
 baseURL = "https://rp-27.github.io"
-languageCode = "en-us"
+locale = "en-us"
 title = "Melquíaden"
 theme = "rocinante"
 paginate = 3
@@ -10,8 +10,9 @@ plainIDAnchors = false
 [markup]
   [markup.highlight]
     style = "monokailight"
-  [markup.goldmark.renderer]
-    unsafe= true
+    [markup.goldmark]
+      [markup.goldmark.renderer]
+        unsafe = true
 
 [params]
   favicon = "/icons/favicon.png"

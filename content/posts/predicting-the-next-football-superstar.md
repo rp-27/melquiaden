@@ -8,7 +8,7 @@ On July 27, 2011, a then 19-year-old Neymar nimbly dribbled past the Flamengo de
 
 <!--more-->
 
-{{< tweet 1287733149728899073 >}}
+{{< x user="FIFAcom" id="1287733149728899073">}}
 
 But as the world cheered on, the data team at EA Sport’s FIFA division was closely watching, trying its best to quantify Neymar’s impressive performance for his virtual counterpart in its hugely successful FIFA video game series. The game’s player scores and avatars, the results of its meticulous number-crunching, have transcended the in-game playing experience and into the real world of the soccer elite [^1] where players publicly discuss their scores with careful reflection, use the virtual pitch to evaluate real-life issues and opponents, and utilize game metrics for training and development.
 
