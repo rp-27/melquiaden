@@ -116,7 +116,7 @@ Another adjustment to the model that could strengthen it's predictive capability
 
 The model also may be more tuned for up-field players rather than the backline, given the fewer instances and smaller magnitude of valuation growth in defenders and goalkeepers in this analysis. However, looking back at the players whose valuations have grown, there is a promising group of players who's profiles may contiue to grow: **Jarrod Bowen**, **Angeliño**, **Douglas Luiz**, **Ismaël Bennacer\*\***, **Daichi Kamada**, **Konrad Laimer**, **Diego Rossi**, and **Boubacar Kamara\*\***.
 
-It's yet to be seen if there will be another Neymar or Messi, but with the entire world watching, there is a good chance that new, unexpected talent will step onto the pictch in the near future and give soccer fans a new generation of superstars to follow.
+It's yet to be seen if there will be another Neymar or Messi, but with the entire world watching, there is a good chance that new, unexpected talent will step onto the pitch in the near future and give soccer fans a new generation of superstars to follow.
 
 {{< figure src="/images/ismael.jpg" caption="Ismaël Bennacer for AC Milan" >}}
 

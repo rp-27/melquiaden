@@ -1,4 +1,4 @@
-baseURL = "https://rp-27.github.io"
+baseURL = "https://rp-27.github.io/"
 locale = "en-us"
 title = "Melquíaden"
 theme = "rocinante"
